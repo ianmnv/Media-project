@@ -12,7 +12,7 @@ function UsersList() {
   }, []);
 
   if (isLoading) {
-    return <Skeleton times={5} />;
+    return <Skeleton times={5} className="h-10 w-full" />;
   }
 
   if (error) {
