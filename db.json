@@ -1,5 +1,30 @@
 {
-  "users": [{ "id": 1, "name": "Ian" }],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ian"
+    },
+    {
+      "id": "fcdb",
+      "name": "Debra Collier Sr."
+    },
+    {
+      "id": "c8cb",
+      "name": "Mr. Josefina Sanford"
+    },
+    {
+      "id": "96be",
+      "name": "Taylor Dickens III"
+    },
+    {
+      "id": "cad5",
+      "name": "Byron Bogisich"
+    },
+    {
+      "id": "689e",
+      "name": "Wilma Schowalter"
+    }
+  ],
   "albums": [],
   "photos": []
 }
